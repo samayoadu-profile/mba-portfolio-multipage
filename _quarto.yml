@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/
+    - styles.css
+
+format:
+  html:
+    css: styles.css
+    from: markdown+raw_html+markdown_in_html_blocks
+    include-after-body:
+      - _mdlink-rewrite.html

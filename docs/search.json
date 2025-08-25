@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Ayooluwa Adu Home | About | Portfolio | Résumé | Contact"
+  },
+  {
+    "objectID": "resume.html#profile",
+    "href": "resume.html#profile",
+    "title": "Resume",
+    "section": "Profile",
+    "text": "Profile\nMBA candidate with a Computer Science background and experience across analytics, software delivery, and technology strategy. Skilled in cloud (AWS), data workflows, and secure systems architecture, with a growing focus on AI enablement and marketing-driven strategy."
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Resume",
+    "section": "Key Skills",
+    "text": "Key Skills\n· Cloud: AWS (EC2, S3, Lambda, RDS) · Data: SQL, Power BI, Tableau, Excel · Dev: Python, PHP · PM: Agile/Scrum, Jira/Azure DevOps · Security: Data protection, secure architecture · Biz/Marketing: Digital campaigns, positioning, audience insights"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nMBA, University Canada West (BC) — Expected 2025\nMSc Project Management (Advanced Practice), Teesside University (UK) — Distinction\nMSc Computer Science, University of Ibadan (Nigeria) — MPhil PHD\nB.Tech Computer Science, Federal University of Technology, Akure (Nigeria) — Upper Credit"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\nBusiness Analyst — Avosoft, UK\n- Led backlog & sprint planning (Azure DevOps); stakeholder interviews; UAT facilitation.\n- Built SQL-driven reports to streamline decision-making and workflow visibility.\nSoftware Developer — British Steel\n- Developed data pipelines (SSIS, SQL Server) and delivered reporting (SSRS/Crystal).\n- Improved reliability and reduced manual reporting overhead.\nIT Officer — Equitable Health Access Initiative\n- Designed databases for NGO health programs; ensured data quality & performance.\n- Partnered with program teams to track impact and KPIs."
+  },
+  {
+    "objectID": "resume.html#projects-achievements",
+    "href": "resume.html#projects-achievements",
+    "title": "Resume",
+    "section": "Projects / Achievements",
+    "text": "Projects / Achievements\n\nPediatric HIV Insights: Achieved 30% increase in viral load suppression among pediatric patients through targeted analytics and program feedback loops.\n\nBeams Shipment Refactor: Reduced overhead and improved logistics efficiency by refactoring scheduling logic and automating checks.\n\nLLM Knowledge Enablement (Prototype): Faster insights for business stakeholders through retrieval-augmented workflows."
+  },
+  {
+    "objectID": "resume.html#certifications-tools",
+    "href": "resume.html#certifications-tools",
+    "title": "Resume",
+    "section": "Certifications & Tools",
+    "text": "Certifications & Tools\nAWS · Git · dbt · SSIS · SSRS · Crystal Reports · Power Query · Python"
+  },
+  {
+    "objectID": "resume.html#interests",
+    "href": "resume.html#interests",
+    "title": "Resume",
+    "section": "Interests",
+    "text": "Interests\nLearning new programming languages, tech-driven films, international travels\n\nFull details and case studies: Portfolio · About · Contact"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Ayooluwa Adu | Home | About | Portfolio | Résumé | Contact"
+  },
+  {
+    "objectID": "index.html#what-i-focus-on",
+    "href": "index.html#what-i-focus-on",
+    "title": "Home",
+    "section": "What I focus on",
+    "text": "What I focus on\n\nCloud & Data: AWS (EC2, S3, Lambda, RDS), modern analytics stacks.\nAI & Automation: Practical ML/LLM integrations for business outcomes.\nSecurity & Governance: Data protection, secure systems architecture.\nMarketing & Strategy: Digital campaigns, positioning, audience insights."
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Home",
+    "section": "Recent highlights",
+    "text": "Recent highlights\n\n\n\n📈 Program Impact\n\n\nRaised pediatric viral load suppression by 30% via targeted data insights.\n\n\n\n\n🚚 Ops Efficiency\n\n\nRefactored beams shipment logic to reduce overhead and logistics cost.\n\n\n\n\n🤝 Collaboration\n\n\nBridged stakeholders across NGO, manufacturing, and SaaS contexts.\n\n\n\n\n🤝 Training\n\n\nFacilitate in training of concerned government parastatals on Data Quality and Management."
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "Home",
+    "section": "Core skills",
+    "text": "Core skills\nAWS Python SQL Power BI Tableau Agile / Scrum Jira / Azure DevOps Security Architecture\n\n© 2025 Samayoadu · Get in touch"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ayooluwa Adu | Home | About | Portfolio | Résumé | Contact"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nMBA, University Canada West (BC) — Expected 2025\nMSc Project Management (Advanced Practice), Teesside University (UK) — Distinction\nMSc Computer Science, University of Ibadan (Nigeria)\nB.Tech Computer Science, Federal University of Technology, Akure (Nigeria)"
+  },
+  {
+    "objectID": "about.html#experience-highlights",
+    "href": "about.html#experience-highlights",
+    "title": "About",
+    "section": "Experience Highlights",
+    "text": "Experience Highlights\nBusiness Analyst — Avosoft, UK\n- Led backlog and sprint planning in Azure DevOps; stakeholder interviews; UAT facilitation.\n- Improved workflows via SQL-based reporting and insight automation.\nSoftware Developer — British Steel\n- Built/maintained data pipelines (SSIS, SQL Server).\n- Authored reports with SSRS and Crystal Reports.\nIT Officer — Equitable Health Access Initiative\n- Designed databases for NGO health programs; supported data integrity & performance."
+  },
+  {
+    "objectID": "about.html#key-skills",
+    "href": "about.html#key-skills",
+    "title": "About",
+    "section": "Key Skills",
+    "text": "Key Skills\nCloud: AWS (EC2, S3, Lambda, RDS)\nProgramming: Python, PHP\nAnalytics: SQL, Tableau, Power BI, Excel\nProject: Agile, Scrum, Jira/Azure DevOps\nMarketing: Digital campaigns, brand positioning, audience analysis\nSecurity: Data protection, secure systems architecture\nSoft Skills: Collaboration, stakeholder communication"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About",
+    "section": "Career Goals",
+    "text": "Career Goals\nIn the near term, I’m pursuing strategy consulting or corporate development roles that leverage analytics and leadership. Long term, I aim to grow into senior leadership, driving growth, innovation, and organizational excellence."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About",
+    "section": "Interests",
+    "text": "Interests\n\nLearning new programming languages of value\n\nTech-driven movies\n\nInternational travel\n\n\nPrefer a quick overview? Jump to my Portfolio or Résumé."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Ayooluwa Adu Home About Portfolio Résumé Contact"
+  },
+  {
+    "objectID": "contact.html#social",
+    "href": "contact.html#social",
+    "title": "Contact",
+    "section": "Social",
+    "text": "Social\n\n💼 LinkedIn: linkedin.com/in/samayoadu\n🐦 X/Twitter: @samayoadu\n🐙 GitHub: github.com/samayoadu\n✉️ Email: samayoadu@gmail.com"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact",
+    "section": "Contact Form",
+    "text": "Contact Form\n\nName  Email  Message\n\n Send\n\n\nPrefer email? samayoadu@gmail.com"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Ayooluwa Adu Home | About | Portfolio | Résumé | Contact"
+  },
+  {
+    "objectID": "portfolio.html#selected-achievements",
+    "href": "portfolio.html#selected-achievements",
+    "title": "Portfolio",
+    "section": "Selected Achievements",
+    "text": "Selected Achievements\n\n\n\n\n\n\n\n\nYear\nAchievement\nNotes\n\n\n\n\n2025\nGraduate leadership projects\nStrategy & analytics capstones (MBA)\n\n\n2024\nOps optimization\nReduced reporting and logistics friction\n\n\n2023\nProgram impact\nPediatric viral load suppression ↑ 30%"
+  },
+  {
+    "objectID": "portfolio.html#tech-tools",
+    "href": "portfolio.html#tech-tools",
+    "title": "Portfolio",
+    "section": "Tech & Tools",
+    "text": "Tech & Tools\nAWS Python SQL Power BI Tableau SSIS SSRS Crystal Reports Agile / Scrum\n\nCurious how this work could translate to your team? Let’s talk."
+  }
+]
