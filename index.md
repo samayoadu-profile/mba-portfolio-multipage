@@ -51,7 +51,7 @@ Hello, I am Ayooluwa
 <strong>Marketing insight</strong> to build data-driven, human-centered solutions.
 </p>
 <a class="btn" href="portfolio.md">See my work</a>
-      &nbsp; <a class="btn" href="assets/sam_CV.pdf">Download CV</a>
+      &nbsp; <a class="btn" href="assets/sam_CV.pdf" target="_blank" rel="noopener noreferrer">Download CV</a>
 </div>
 
 </div>
