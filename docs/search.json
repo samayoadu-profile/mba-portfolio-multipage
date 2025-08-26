@@ -18,7 +18,7 @@
     "href": "resume.html#key-skills",
     "title": "Resume",
     "section": "Key Skills",
-    "text": "Key Skills\n· Cloud: AWS (EC2, S3, Lambda, RDS) · Data: SQL, Power BI, Tableau, Excel · Dev: Python, PHP · PM: Agile/Scrum, Jira/Azure DevOps · Security: Data protection, secure architecture · Biz/Marketing: Digital campaigns, positioning, audience insights"
+    "text": "Key Skills\n· Cloud: AWS (EC2, S3, Lambda, RDS)\n· Data: SQL, Power BI, Tableau, Excel\n· Dev: Python, PHP\n· PM: Agile/Scrum, Jira/Azure DevOps\n· Security: Data protection, secure architecture\n· Biz/Marketing: Digital campaigns, positioning, audience insights"
   },
   {
     "objectID": "resume.html#education",
@@ -46,7 +46,7 @@
     "href": "resume.html#certifications-tools",
     "title": "Resume",
     "section": "Certifications & Tools",
-    "text": "Certifications & Tools\nAWS · Git · dbt · SSIS · SSRS · Crystal Reports · Power Query · Python"
+    "text": "Certifications & Tools\nAWS · Git · dbt · SSIS · SSRS · Crystal Reports · Power Query · Python · MSSQL · Azure · Linux · C# · Quarto\n· Microsoft Certified Technical Specialist\n· Microsoft Technology Associate (MTA -Software Development Fundamentals)\n· Microsoft Technology Associate (MTA - Python Programming)\n· Microsoft Office Specialist\n· Data Analysis and Interpretation"
   },
   {
     "objectID": "resume.html#interests",
@@ -158,13 +158,13 @@
     "href": "portfolio.html#selected-achievements",
     "title": "Portfolio",
     "section": "Selected Achievements",
-    "text": "Selected Achievements\n\n\n\n\n\n\n\n\nYear\nAchievement\nNotes\n\n\n\n\n2025\nGraduate leadership projects\nStrategy & analytics capstones (MBA)\n\n\n2024\nOps optimization\nReduced reporting and logistics friction\n\n\n2023\nProgram impact\nPediatric viral load suppression ↑ 30%"
+    "text": "Selected Achievements\n\n\n\n\n\n\n\n\nYear\nAchievement\nNotes\n\n\n\n\n2025\nGraduate leadership projects\nStrategy and analytics capstones\n\n\n2024\nOps optimization\nReduced reporting and logistics friction\n\n\n2023\nProgram impact\nPediatric viral load suppression ↑ 30%"
   },
   {
-    "objectID": "portfolio.html#tech-tools",
-    "href": "portfolio.html#tech-tools",
+    "objectID": "portfolio.html#tech-and-tools",
+    "href": "portfolio.html#tech-and-tools",
     "title": "Portfolio",
-    "section": "Tech & Tools",
-    "text": "Tech & Tools\nAWS Python SQL Power BI Tableau SSIS SSRS Crystal Reports Agile / Scrum\n\nCurious how this work could translate to your team? Let’s talk."
+    "section": "Tech and Tools",
+    "text": "Tech and Tools\nAWS Python SQL Power BI Tableau SSIS SSRS Crystal Reports Agile / Scrum\n\nCurious how this work could translate to your team? Let’s talk."
   }
 ]

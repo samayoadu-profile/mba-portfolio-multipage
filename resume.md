@@ -24,7 +24,7 @@ format:
 
 # Ayooluwa Adu — One-Page Résumé
 
-  **Location:** Vancouver, BC · **Email:** you@domain.com · **LinkedIn:** linkedin.com/in/samayoadu · **GitHub:** github.com/samayoadu
+  **Location:** Vancouver, BC · **Email:** samayoadu@gmail.com · **LinkedIn:** linkedin.com/in/samayoadu · **GitHub:** github.com/samayoadu
 
   ---
 
@@ -35,10 +35,15 @@ format:
 ## Key Skills
 
   · **Cloud:** AWS (EC2, S3, Lambda, RDS) 
+
   · **Data:** SQL, Power BI, Tableau, Excel 
+
   · **Dev:** Python, PHP 
+
   · **PM:** Agile/Scrum, Jira/Azure DevOps 
+
   · **Security:** Data protection, secure architecture 
+
   · **Biz/Marketing:** Digital campaigns, positioning, audience insights
 
 ## Education
@@ -70,7 +75,17 @@ format:
 
 ## Certifications & Tools
 
-  AWS · Git · dbt · SSIS · SSRS · Crystal Reports · Power Query · Python
+  AWS · Git · dbt · SSIS · SSRS · Crystal Reports · Power Query · Python · MSSQL · Azure · Linux · C# · Quarto 
+
+  · Microsoft Certified Technical Specialist
+
+  · Microsoft Technology Associate (MTA -Software Development Fundamentals)
+
+  · Microsoft Technology Associate (MTA - Python Programming)
+
+  · Microsoft Office Specialist
+
+  · Data Analysis and Interpretation
 
 ## Interests
 

@@ -53,7 +53,7 @@ format:
 
 </ul>
 
-<a class="btn" href="#" title="Case study placeholder">Case Study</a>
+<a class="btn" href="#" title="Case study">Case Study</a>
 </div>
 
 <div class="card" markdown="1">
@@ -67,11 +67,11 @@ format:
 
 <li>Impact: Reduced overhead and improved logistics efficiency</li>
 
-<li>Stack: SSIS, SQL Server, reporting (SSRS/Crystal)</li>
+<li>Stack: PHP, SSIS, SQL Server, reporting (SSRS/Crystal)</li>
 
 </ul>
 
-<a class="btn" href="#" title="Walkthrough placeholder">Technical Notes</a>
+<a class="btn" href="#" title="Tech Notes">Technical Notes</a>
 </div>
 
 <div class="card" markdown="1">
@@ -97,11 +97,11 @@ format:
 ## Selected Achievements
 | Year | Achievement | Notes |
 |------|-------------|-------|
-| 2025 | Graduate leadership projects | Strategy & analytics capstones (MBA) |
+| 2025 | Graduate leadership projects | Strategy and analytics capstones |
 | 2024 | Ops optimization | Reduced reporting and logistics friction |
 | 2023 | Program impact | Pediatric viral load suppression ↑ 30% |
 
-## Tech & Tools
+## Tech and Tools
 
 <span class="badge">AWS</span>
 <span class="badge">Python</span>
